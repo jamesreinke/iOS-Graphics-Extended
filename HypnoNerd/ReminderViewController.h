@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ReminderViewController.h
 //  HypnoNerd
 //
 //  Created by James Reinke on 8/17/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ReminderViewController : UIViewController
 
 @end
-
